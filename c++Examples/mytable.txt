@@ -1,0 +1,5 @@
+electron	0.000511	-1
+muon		0.106		-1
+tau		1.7771		-1
+proton		0.938		+1
+neutron		0.940		0
