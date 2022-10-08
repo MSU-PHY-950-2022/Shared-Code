@@ -2,7 +2,7 @@
 # forest.  We will assume the following:
 #
 # 1) The forest has roughly 1000 trees with a Gaussian standard deviation of 126
-# 2) The trees vary in age from 1 year to 100 years with a linearly-decreasing age profile
+# 2) The trees vary in age from 1 year to 100 years with a linearly increasing age profile
 # 3) Each tree has number of branches that follows a Poisson distribution with mean age*2+3
 # 4) Each branch has a number of leaves that is drawn randomly from the function 10+20*sqrt(age)
 #
