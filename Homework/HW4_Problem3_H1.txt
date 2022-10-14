@@ -1,8 +1,3 @@
-
-Processing hw4_chi2_plot.cc...
-1 1.04
-Histogram Bin Contents:
-Format: <bin> <h1 content> <h2 content> <data content>
 Bin 1: 0.0199217
 Bin 2: 0.0197162
 Bin 3: 0.0194879
